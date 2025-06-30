@@ -20,13 +20,14 @@ Sistema de gerenciamento de uma distribuidora de bebidas — desenvolvido em ASP
 
 ---
 ## 🧱 Arquitetura
+```bash
 Distribuidora/
-├── Core                # Entidades e Interfaces
-├── Application         # Use Cases, DTOs e Mapeamentos
-├── Infrastructure      # EF Core, DbContext e Repositórios
-├── API                 # Web API com Controllers e Swagger
-└── Tests               # Testes futuros 🔧
-
+  ├── Core                # Entidades e Interfaces
+  ├── Application         # Use Cases, DTOs e Mapeamentos
+  ├── Infrastructure      # EF Core, DbContext e Repositórios
+  ├── API                 # Web API com Controllers e Swagger
+  └── Tests               # Testes futuros 🔧
+```
 ---
 
 ## 🛠️ Tecnologias
